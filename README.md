@@ -1,1 +1,1 @@
-## Implementations for Assignments of Computer Graphics Course CS550000 in NTHU
+## Assignments for Computer Graphics Course CS550000 in NTHU
